@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About saiz-lab
+title: Paper Reviews
 subtitle: Why you'd want to go on a date with me
 ---
 
